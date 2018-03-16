@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-03-15T02:14:17.735Z</updated>
+  <updated>2018-03-16T06:28:56.230Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>工作日志</title>
+    <link href="http://yoursite.com/2018/03/16/%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%97/"/>
+    <id>http://yoursite.com/2018/03/16/工作日志/</id>
+    <published>2018-03-16T06:02:53.000Z</published>
+    <updated>2018-03-16T06:28:56.230Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="工作日志"><a href="#工作日志" class="headerlink" title="工作日志"></a>工作日志</h1><p><img src="http://lib.hrbcu.edu.cn/web/img/1.jpg" alt="Logo"><br>联系张强接洽机构知识库事宜，在图书馆主页发布消息，中国高教学会高等财经教育分会图书情报专业委员会2018年馆长工作会议在我校召开，增加一组图片展示消息。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;工作日志&quot;&gt;&lt;a href=&quot;#工作日志&quot; class=&quot;headerlink&quot; title=&quot;工作日志&quot;&gt;&lt;/a&gt;工作日志&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://lib.hrbcu.edu.cn/web/img/1.jpg&quot; alt=&quot;Logo&quot;&gt;&lt;b
+      
+    
+    </summary>
+    
+    
+      <category term="日志" scheme="http://yoursite.com/tags/%E6%97%A5%E5%BF%97/"/>
+    
+  </entry>
   
   <entry>
     <title>hello-markdown</title>
